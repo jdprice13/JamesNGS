@@ -1,0 +1,4 @@
+hub JDP
+shortLabel NuRD
+longLabel data for NuRD paper
+genomesFile genomes.txt
