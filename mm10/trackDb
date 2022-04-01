@@ -46,7 +46,7 @@ color 214,36,161
 
 track D12null_embryo2_FTpos_S14.bw
 bigDataUrl https://dl.dropboxusercontent.com/s/88obc5quw73q5jq/D12null_embryo2_FTpos_S14.bw
-shortLabel D12null_embryo1_FTpos
+shortLabel D12null_embryo2_FTpos
 longLabel ATACseq of e13 Dlx12null VZ cells, Embryo2
 type bigWig
 visibility full
@@ -58,7 +58,7 @@ color 179,32,136
 
 track D12null_embryo3_FTpos_S16.bw
 bigDataUrl https://dl.dropboxusercontent.com/s/vgtjbpu59qdt6dy/D12null_embryo3_FTpos_S16.bw
-shortLabel D12null_embryo1_FTpos
+shortLabel D12null_embryo3_FTpos
 longLabel ATACseq of e13 Dlx12null VZ cells, Embryo3
 type bigWig
 visibility full
@@ -106,7 +106,7 @@ color 44,87,42
 
 track WT_embryo1_FTpos_S11.bw
 bigDataUrl https://dl.dropboxusercontent.com/s/ln6sljy8dgaggga/WT_embryo1_FTpos_S11.bw
-shortLabel WT_embryo2_FTneg
+shortLabel WT_embryo1_FTpos
 longLabel ATACseq of e13 WT SVZ/MZ cells, Embryo2
 type bigWig
 visibility full
@@ -118,7 +118,7 @@ color 79,158,120
 
 track WT_embryo2_FTpos_S12.bw
 bigDataUrl https://dl.dropboxusercontent.com/s/9s74yl04brkc7oz/WT_embryo2_FTpos_S12.bw
-shortLabel WT_embryo2_FTneg
+shortLabel WT_embryo2_FTpos
 longLabel ATACseq of e13 WT SVZ/MZ cells, Embryo2
 type bigWig
 visibility full
@@ -130,7 +130,7 @@ color 60,120,91
 
 track WT_embryo3_FTpos_S15.bw
 bigDataUrl https://dl.dropboxusercontent.com/s/q8tgrq3wu3ymx0w/WT_embryo3_FTpos_S15.bw
-shortLabel WT_embryo2_FTneg
+shortLabel WT_embryo3_FTpos
 longLabel ATACseq of e13 WT SVZ/MZ cells, Embryo2
 type bigWig
 visibility full
